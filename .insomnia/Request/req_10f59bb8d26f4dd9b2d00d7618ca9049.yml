@@ -1,0 +1,74 @@
+_id: req_10f59bb8d26f4dd9b2d00d7618ca9049
+type: Request
+parentId: wrk_875d6758f77a451d936463caad2b461b
+modified: 1665285432584
+created: 1665261180510
+url: https://runestone.academy/ns/logger/updatelastpage
+name: Completed Unit
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"lastPageUrl":"/ns/books/published/MBA-CSP-2022-23-Easley/Unit4-Animation-Simulation-Modeling/Unit-Overview.html","lastPageScrollLocation":2933.333251953125,"completionFlag":1,"course":"MBA-CSP-2022-23-Easley"}'
+parameters: []
+headers:
+  - name: Accept
+    value: application/json, text/javascript, */*; q=0.01
+    id: pair_8d26d3cbb0e4401b94082cf733ae72a1
+  - name: Accept-Language
+    value: en-US,en;q=0.9
+    id: pair_f5a2fc191f514a5e8f6f350c83a2d84a
+  - name: Connection
+    value: keep-alive
+    id: pair_9493099329cc47b4b89f639b6e2e24a7
+  - name: Content-Type
+    value: application/json; charset=UTF-8
+    id: pair_8aebdb04468345e6aa5b44ae6fd728f0
+  - name: Cookie
+    value: '__utmz=28105279.1662501168.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided);
+      access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJiaXR0bGVzX2UiLCJleHAiOjE2Njc3NjI5Mjl9.TIVEst9vSyGjHYJ9rEUilE5zs6Y-gKWge6_IZBsVMlQ;
+      RS_info="{\"tz_offset\": 6}";
+      __utma=28105279.1483472560.1662501168.1665170790.1665255115.8;
+      __utmc=28105279;
+      session_id_runestone=45684841:a555b76a-b171-46ea-9990-2d85dad75a9d'
+    id: pair_6dd72f2bd1404586a9437ff4f0863866
+  - name: Origin
+    value: https://runestone.academy
+    id: pair_99a014731a744de7baaffe9c97dc4e80
+  - name: Referer
+    value: https://runestone.academy/ns/books/published/MBA-CSP-2022-23-Easley/Unit4-Animation-Simulation-Modeling/LightsOff-Tutorial.html
+    id: pair_1d0580726752405cb204d6f8f81a9df0
+  - name: Sec-Fetch-Dest
+    value: empty
+    id: pair_15e549df9d4e41dcbbfbc5661d4f67f0
+  - name: Sec-Fetch-Mode
+    value: cors
+    id: pair_5cd417d61ab145ba98fa1266ce57f6af
+  - name: Sec-Fetch-Site
+    value: same-origin
+    id: pair_45a34b54cd4a414a9710ed2db02be524
+  - name: User-Agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/105.0.0.0 Safari/537.36
+    id: pair_68fbb8e6aa414eccafe9757e20ef0cdc
+  - name: X-Requested-With
+    value: XMLHttpRequest
+    id: pair_73343c236be640d08efe29c153e91c36
+  - name: sec-ch-ua
+    value: '"Google Chrome";v="105", "Not)A;Brand";v="8", "Chromium";v="105"'
+    id: pair_5a7cd7fd5659418f82e961ba32ccaed2
+  - name: sec-ch-ua-mobile
+    value: ?0
+    id: pair_b165e99462284f2fa1898f28ca0d6b3a
+  - name: sec-ch-ua-platform
+    value: '"Windows"'
+    id: pair_c9bd686f156a45a3a4c5767bad6c75d1
+authentication: {}
+metaSortKey: -1665261180510
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
